@@ -97,3 +97,26 @@
 ## Brooklyn
 
 ## Staten Island
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Estimated Cost</th>
+            <th>Borough</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Enoteca Maria/ Nonnas of the World</td>
+            <td>Italian; based on the Netflix movie, Nonnas</td>
+            <td>$50-100 per person</td>
+            <td>Staten Island</td>
+            <td>
+              <a href="https://www.google.com/maps/place/Nonnas+of+the+World/@40.6420671,-74.0799064,17z/data=!3m1!4b1!4m6!3m5!1s0x89c24e2d2c37a5e1:0x330ab12b954d84e3!8m2!3d40.6420631!4d-74.0773315!16s%2Fg%2F1tdzmgcg?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D">Google Maps</a> /
+              <a href="https://www.enotecamaria.com/">Official Website</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
